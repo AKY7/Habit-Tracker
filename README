@@ -1,0 +1,5 @@
+# LeetCode Submission Tracker
+
+This project tracks your daily LeetCode submissions and sends an SMS notification if no submissions are made on a particular day. It uses Firebase to store the total submission count and Twilio to send SMS messages.
+
+Make sure to fill out certain sections and run this script as a cron job to execute it every day.
